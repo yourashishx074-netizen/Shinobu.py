@@ -21,4 +21,4 @@ RUN pip3 install --no-cache-dir -U pip setuptools wheel && \
 
 COPY . .
 
-CMD ["python3", "shinobu.py"]
+CMD ["python3", "main.py"]
