@@ -1,0 +1,8 @@
+pyrogram==2.0.106
+tgcrypto
+pytgcalls==3.0.0a4
+yt-dlp
+motor
+psutil
+requests
+aiohttp
