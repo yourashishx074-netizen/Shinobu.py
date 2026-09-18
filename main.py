@@ -15,7 +15,7 @@ from pyrogram.types import (
 )
 from pyrogram.errors import SessionPasswordNeeded
 from pytgcalls import PyTgCalls
-from pytgcalls.types.input_stream import AudioPiped
+from pytgcalls.types import AudioPiped
 import yt_dlp
 from motor.motor_asyncio import AsyncIOMotorClient
 
