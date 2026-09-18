@@ -1,0 +1,10 @@
+pyrogram
+tgcrypto
+pytgcalls
+yt-dlp
+requests
+psutil
+motor
+pymongo
+aiohttp
+
