@@ -1,6 +1,6 @@
-FROM python:3.10-slim-buster
+FROM python:3.10-slim-bullseye
 
-RUN apt update && apt install -y --no-install-recommends \
+RUN apt-get update && apt-get install -y --no-install-recommends \
     ffmpeg \
     git \
     curl \
@@ -17,3 +17,4 @@ RUN pip3 install --no-cache-dir -U pip && \
 COPY . .
 
 CMD ["python3", "main.py"]
+
