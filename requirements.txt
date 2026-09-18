@@ -1,10 +1,8 @@
 pyrogram==2.0.106
 tgcrypto==1.2.5
-git+https://github.com/pytgcalls/pytgcalls.git
+pytgcalls==0.8.1
 yt-dlp
 motor
 psutil
 requests
 aiohttp
-
-
