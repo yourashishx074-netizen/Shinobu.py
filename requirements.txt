@@ -1,10 +1,9 @@
 pyrogram==2.0.106
 tgcrypto==1.2.5
-pytgcalls==3.0.0.dev6
+py-tgcalls==3.0.0.dev6
 yt-dlp
 motor
 psutil
 requests
 aiohttp
-
 
